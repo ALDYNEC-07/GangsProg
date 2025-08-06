@@ -8,5 +8,4 @@
 1. Склонировать репозиторий:
    ```bash
    git clone https://github.com/<ALDYNEC-07>/GangsProg.git
-2. Перейти по ссылке https://github.com/ALDYNEC-07/GangsProg/settings/pages#:~:text=https%3A//aldynec%2D07.github.io/GangsProg/
-
+2. Перейти по ссылке https://aldynec-07.github.io/GangsProg/
