@@ -21,6 +21,7 @@ header {
   height: 80px;
   display: flex;
   justify-content: space-between;
+  text-align: center;
   padding-top: 1.5rem;
   font-size: 20px;
   border-bottom: 1px solid gray;
@@ -34,21 +35,21 @@ header h4:hover {
 }
 /* From Uiverse.io by vinodjangid07 */ 
 .InputContainer {
-  width: 210px;
-  height: 50px;
+  width: 450px;
+  height: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(to bottom,rgb(227, 213, 255),rgb(255, 231, 231));
+  background-color: lightblue;
   border-radius: 30px;
   overflow: hidden;
   cursor: pointer;
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.075);
+  box-shadow: 2px 2px 10px rgba(123, 200, 322, 0.3);
 }
 
 .input {
-  width: 200px;
-  height: 40px;
+  width: 440px;
+  height: 30px;
   border: none;
   outline: none;
   caret-color: rgb(255, 81, 0);
@@ -68,15 +69,11 @@ header nav a {
 }
 
 .learn-row {
-  margin-top: 25rem;
+  margin-top: 20rem;
   text-align: center;
 
 }
 
-
-.learn-to-code > * {
-  margin-top: 3rem;
-}
 
 
 .learn-to-code h1 {
@@ -88,7 +85,9 @@ header nav a {
   transform: scale(1.1);
   transition: transform 0.3s ease;
 }
-
+.learn-to-code button {
+  margin-top: 5rem;
+}
 .how-learning {
   margin-top: 25rem;
   font-size: 1rem;
